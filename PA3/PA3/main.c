@@ -8,9 +8,7 @@ Program that  performs character processing on 10 characters read in from a file
 int main(void)
 {
 	FILE *read_file = NULL, *output_stats = NULL, *output_ascii = NULL;
-	// RESUBMISSION
-	// RESUBMISSION
-	// THANK YOU SO MUCH FOR YOUR EMAIL SPENCER. IT STUMPED ME FOR HOURS
+	
 
 	char character = '\0', char1 = '\0', char2 = '\0', char3 = '\0', char4 = '\0', char5 = '\0', char6 = '\0', char7 = '\0', char8 = '\0', char9 = '\0', char10 = '\0';
 	int lines = 0, vowels = 0, digits = 0, alphas = 0, lowers = 0, uppers = 0, spaces = 0, alnums = 0, puncts = 0;
