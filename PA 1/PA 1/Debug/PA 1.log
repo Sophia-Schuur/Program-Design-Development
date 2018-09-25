@@ -1,0 +1,17 @@
+﻿  main.c
+c:\users\sophie\documents\visual studio 2015\projects\cpts 121 fall 2016\pa's\pa 1\pa 1\main.c(73): warning C4476: 'printf' : unknown type field character ')' in format specifier
+c:\users\sophie\documents\visual studio 2015\projects\cpts 121 fall 2016\pa's\pa 1\pa 1\main.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\sophie\documents\visual studio 2015\projects\cpts 121 fall 2016\pa's\pa 1\pa 1\main.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\sophie\documents\visual studio 2015\projects\cpts 121 fall 2016\pa's\pa 1\pa 1\main.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\sophie\documents\visual studio 2015\projects\cpts 121 fall 2016\pa's\pa 1\pa 1\main.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\sophie\documents\visual studio 2015\projects\cpts 121 fall 2016\pa's\pa 1\pa 1\main.c(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\sophie\documents\visual studio 2015\projects\cpts 121 fall 2016\pa's\pa 1\pa 1\main.c(63): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\sophie\documents\visual studio 2015\projects\cpts 121 fall 2016\pa's\pa 1\pa 1\main.c(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  PA 1.vcxproj -> C:\Users\Sophie\Documents\Visual Studio 2015\Projects\CptS 121 Fall 2016\PA's\PA 1\Debug\PA 1.exe
