@@ -1,2 +1,2 @@
 # Program-Design-Development
-C projects to gain a fundamental understanding of basic modern computer programming.
+C projects completed in MS Visual Studio to gain a fundamental understanding of basic modern computer programming.
