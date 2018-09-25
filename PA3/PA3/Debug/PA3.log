@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\sophie\documents\visual studio 2015\projects\pa3\pa3\main.c(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\sophie\documents\visual studio 2015\projects\pa3\pa3\main.c(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  equations.c
+c:\users\sophie\documents\visual studio 2015\projects\pa3\pa3\equations.c(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\sophie\documents\visual studio 2015\projects\pa3\pa3\equations.c(14): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\sophie\documents\visual studio 2015\projects\pa3\pa3\equations.c(73): warning C4552: '+': operator has no effect; expected operator with side-effect
+  Generating Code...
+  PA3.vcxproj -> C:\Users\Sophie\documents\visual studio 2015\Projects\PA3\Debug\PA3.exe
+  PA3.vcxproj -> C:\Users\Sophie\documents\visual studio 2015\Projects\PA3\Debug\PA3.pdb (Full PDB)
